@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!%20YeIn's%20World!&fontSize=60)
   
   <div align=center><h3>🍀 Introduce</h3></div><br>
-  안녕하세요! 배움을 즐기는 2년차 신입 백엔드 개발자입니다😆<br>
+  안녕하세요! 배움을 즐기는 3년차 백엔드 개발자입니다😆<br>
   포기하지 않은 것이 이기는 것이라는 말이 있는 만큼 포기하지 않고 끝까지 해내겠습니다!👏
 
   <br><br>
